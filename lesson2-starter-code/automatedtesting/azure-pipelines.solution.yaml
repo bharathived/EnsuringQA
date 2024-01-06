@@ -18,4 +18,4 @@ stages:
       continueOnError: true
       inputs:
         script: 'newman run StarterAPIs.json'
-        workingDirectory: 'Lesson 2: Creating and Deploying Azure Cloud Infrastructure/Exercise: Automated Testing Task/'
+        workingDirectory: 'lession2-starter-code/automatedtesting/postman'
